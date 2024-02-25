@@ -64,6 +64,8 @@ I'm not sure that I'm getting the fonts quite right when comparing the design to
 
 I'd also like to get clearer on a [design system](https://www.figma.com/design-systems/) for how to systematize my thinking about when to use margins vs. paddings, and the particular values that I rely on for each of them. And just [learn more about design systems](https://help.figma.com/hc/en-us/articles/14552901442839-Overview-Introduction-to-design-systems) more generally.
 
+And finally, I need to review and start to incorporate more about [accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility).
+
 ### Useful resources
 
 - Great [examples using json and fetch are available on the MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Response/json), including in their [DOM examples on Github](https://github.com/mdn/dom-examples/) and the [live examples too](https://mdn.github.io/dom-examples/). And there's more. They have [Web Components examples on GitHub]() and [live as well](https://mdn.github.io/web-components-examples/). [What other kinds of examples does MDN have?](https://developer.mozilla.org/en-US/) Will be referencing all of these examples much more in the future!
